@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_CRUD_operations_using_Entity_Framwork", "10_CRUD_operations_using_Entity_Framwork\10_CRUD_operations_using_Entity_Framwork.csproj", "{44DE1CDA-67B5-4A77-A9CA-3AA422A62771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DE1CDA-67B5-4A77-A9CA-3AA422A62771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DE1CDA-67B5-4A77-A9CA-3AA422A62771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DE1CDA-67B5-4A77-A9CA-3AA422A62771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DE1CDA-67B5-4A77-A9CA-3AA422A62771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F917A1-9468-43E2-84CE-ADC84591ECFB}
+	EndGlobalSection
+EndGlobal
